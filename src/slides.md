@@ -1,0 +1,257 @@
+# Devoxx FR 2025
+
+## La conf en elle-même
+
+Paris, 3 jours (16-18 Avril)
+
+13ème éditions
+
+thèmatiques :
+* ~~Java~~ (historique)
+* Data
+* ~~IA~~
+* Front-end
+* Ops
+* Sécu
+* Test
+* Archi
+* Alien
+
+beaucouuuup de monde (4500 sur 3 jours ?)
+
+prévoir de bonnes chaussures
+
+cher : 860€ tarif personnel, 1100+€ tarif professionnel
+
+des stands d'exposants
+
+résumé des confs, dans le désordre, mais par thématique
+
+de la musique et de vidéos IA qui me donnent la gerbe tout le temps TODO emoji vomi
+
+pas de Python (cf mon post LinkedIn)
+
+# Keynotes
+
+## Mercredi 09h00 - l'IA n'existe pas
+
+Luc Julia, ingénieur derrière Siri
+
+un retour aux sources, un parti pris que l'IA ne nous remplacera pas
+
+## Jeudi 09h00 - Langage, IA et propagande : la guerre des récits a déjà commencé
+
+Elodie Mielczareck, semiologue
+
+rien compris !! pire keynote
+
+un ton assez monocorde, des phrases trop longues, beaucoup de termes droppés sans être expliqués, ...
+
+théorie des 4 niveaux d'un philosophe
+
+ce n'est pas comme la matrice car "illusion n'est pas simulation", ok mais ensuite ?
+
+un mauvais souvenir
+
+## Jeudi 09h35 - La territorialisation des infrastructures comme levier de pouvoir
+
+Ophélie Coelho, en thèse sur le sujet
+
+focus sur l'Afrique, notemment australe
+
+comment les logiciels, les accès de données, la localisation des datacenters, et l'itinéraire des cables a des impacts (géo)politiques et territoriaux
+
+très clair dans sa première partie, elle a manqué de temps et je trouve que la fin manquait d'illustration, j'aurais aimé en savoir +
+
+## Vendredi 09h00 - Plongez dans l'ère quantique : décryptez et anticipez la révolution à venir
+
+Fanny Bouton
+
+TODO
+
+## Vendredi 09h35 - les LLM rêvent-ils de cavaliers électriques ?
+
+Monsieur Phi
+
+TODO
+
+# Data
+
+## Mercredi 10h30 - Iceberg : pourquoi devez-vous connaître ce nouveau format de stockage de données ?
+
+Bertrand Paquet
+
+très intéressantes les nouvelles fonctionnalités offertes par ce nouveau format, en terme de perf sur des données mutables et historisées
+
+JULIEN : à revoir à Kaizen ?
+
+## Jeudi 11h35 - Apache Kafka en 2025, vers l'infini et l'au-delà
+
+Daniel Petisme et Frédérik Rouleau
+
+intéressant de voir les évolutions à la fois de Kafka, et du marché (distributions spécialisées) 
+
+# Ops
+
+## Mercredi 11h35 - L'observabilité pour les devs : outils-clé pour survivre quand la prod plantera
+
+Alexandre Moray et Florian Meuleman
+
+un rappel sur les bases de l'observabilité (logs, traces, métriques)
+
+moins bien je trouve que la conférence de Mathieu ROger (TODO lui demander de la redonner ?)
+
+présentait SigNoz comme APM, et la suite OTel
+
+expliquait le rôle des collecteurs intermédiaires d'OTel (indirection pour switch d'APM, authentification centralisée, traitement/filtres intermédiaires)
+
+## Mercredi 15h40 - Kubernetes en 2025
+
+Alain Regnier
+
+un tour d'horizon des différentes nouvelles features
+
+## Mercredi 17h50 - Rebase d'image Docker/OCI avec crane
+
+Julien Wittouck
+
+l'outil est intéressant, mais la présentation extrêmement redondante
+
+# Test
+
+## Mercredi 12h35 - Maîtriser les tests de code asynchrone
+
+Yifang Dong
+
+un naufrage : le code était illisible, l'exemple pas clair
+
+j'ai appliqué la loi des 2 pieds (pas officielle au Devoxx)
+
+## Jeudi 13h00 - TDD et IA
+
+Benoit Prioux
+
+démonstration en live coding de la génération de test à partir de l'implèm : fais des hypothèses, et ne cherche pas à mettre en défaut (test de caractérisation)
+
+au contraire, rédiger les tests et faire générer l'implémentation (+ refacto) serait plus safe ?
+
+Le MCP risque de changer le game
+
+JULIEN : à revoir ?
+
+## Jeudi 13h30 - Vibe testing
+
+Yann Helleboid
+
+en utilisant Dinootoo (plateforme/toolbox d'Orange) pour avoir des prompts, en fournissant le code source de son application, il fait générer son plan de test IEEE 29119-3, puis ses différentes suites de test (API : fonctionnel/load/sécu, web : fonctionnel/a11y/sécu) qui sont 90% OK pour quelques dizaines de centimes
+
+l'IA change le game
+
+titre mensonger néanmoins : il faut tout le recul et l'expérience du testeur pour bien en tirer parti, donc ce n'est pas du "vibe"-testing, mais juste du test assisté par IA
+
+# Sécu
+
+## Mercredi 13h30 - Vol au-dessus d'un nid de vulnérabilités
+
+Damien Lucas
+
+présentation des 2 standards concurrents SPDX (Linux FOundation) et CycloneDX (OWASP) ainsi que les outillages liés
+
+évolutions règlementaires : NIS2, CRA, ...
+
+JULIEN : à creuser
+
+JULIEN : avancer sur dependency-track
+
+## Mercredi 14h35 - OAuth2& OpenID : sous le capot
+
+Daniel garnier-Moiroux
+
+j'en avais entendu parler en bien, je confirme que le live coding rend les choses très claires
+
+même si ça reste une implèm archi minimale, ça aide à bien comprendre
+
+JULIEN : à revoir à Kaizen
+
+## Mercredi 17h00 - Top 3 des outils de l'OWASP
+
+Florian Bernard
+
+présentation de 3 outils :
+* dependency-track, très utile
+* Zed Attack Proxy, très impressionnant : à partir d'une simple navigation via browser, il essaye d'exploiter les endpoints révélés
+* Mod-Security, intéressant
+
+## Jeudi 12h35 - 403 Forbidden : panorama de la gestion des autorisations
+
+François Eckert
+
+présentation de l'évolution au cours du temps (ACL, RBAC, ABAC, ReBAC, GitOps, Zanzibar), et quelques outils actuels
+
+# Archi
+
+## Jeudi 10h30 - Les clés de l'architecture pour les devs
+
+Cyrille Martraire + quelqu'un
+
+Cyrille est une valeur sûre, et je n'ai pas été déçu
+
+plein de bons conseils d'architecture
+
+mentionne les quality attributes (cf ISO/IEC 25010)
+
+JULIEN : à revoir à Kaizen
+
+# Alien
+
+## Mercredi 13h00 - Les podcasts tech en France
+
+Alexis Slawny
+
+un petit tour d'horizon, un peu orienté biz, des différents podcasts
+
+## Jeudi 14h35 - Savez-vous ce qu'est la couleur ? Découvrez la science derrière les pixels
+
+Julien Sulpis
+
+une masterclass : de superbes visualisations, un sujet bien vulgarisé, des conclusions utiles, ...
+
+JULIEN : à revoir à Kaizen
+
+## Jeudi 15h40 - Le tic-tac de l'horloge : la standardisation pourquoi ça compte vraiment ?
+
+Caroline Boyer
+
+je m'attendais à ce que ça parle + de technique de gestion du temps, et en relisant l'abstract je me suis rendu compte que j'avais mal compris
+
+parle très en longueur du process de standardisation (la talkeuse ayant travaillé au NIST)
+
+je n'étais pas du tout captivé, donc je suis passé à côté
+
+mais ça m'a donné le temps de rédiger la première motié de ces slides TODO emoji sourrire
+
+# Ce que j'ai loupé TODO emoji triste
+
+## Mercredi 11h35 - Arcane : quand la technologie n'est pas le produit : une série d'animation
+
+j'ai entendu dire que ce n'était pas si bien ?
+
+## Mercredi 11h35 - Les équipes se plient en 4 pour répondre aux éxigences du Cyber Resilience Act
+
+j'avais peur que ce soit chiant (et par des gens de Thales)
+
+## Jeudi 11h35 - Kubernetes : 5 façons créatives de flinguer sa prod
+
+semblait trop orienté "administration du cluster"
+
+## Jeudi 11h35 - Comment allonger notre build nous a fait gagner du temps ?
+
+en lisant l'abstract, j'avais l'impression que leur réponse c'était surtout l'ajout de linters
+
+ce qu'ils citent : Gradle, PMD (analyse statique pour Java), dependabot
+
+## Jeudi 15h40 - Vos requêtes SQL jusqu'à 10000 fois plus rapides, durablement
+
+semble une mine d'or de bons conseils sur PG, et on me l'a recommandée
+
+JULIEN : à revoir à Kaizen ?
