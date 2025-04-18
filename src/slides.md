@@ -181,6 +181,12 @@ réservés à des besoins extrêmes
 
 intéressant néamoins
 
+## Vendredi 13h00 - Apprenez à votre IA à faire du TDD
+
+Manuel Camargo
+
+A l'aide de Copilot Chat (plutôt que Edit, qui semble moins avancé), et du fichier `.copilot-instructions`, on peut améliorer la pratique des 3 étapes du TDD à Copilot, mais sans avoir de gains de temps/qualité pour autant pour l'instant
+
 # Sécu
 
 ## Mercredi 13h30 - Vol au-dessus d'un nid de vulnérabilités
@@ -234,7 +240,7 @@ mentionne les quality attributes (cf ISO/IEC 25010)
 
 JULIEN : à revoir à Kaizen
 
-# Alien
+# Dev & Culture & ... (Alien)
 
 ## Mercredi 13h00 - Les podcasts tech en France
 
@@ -261,6 +267,20 @@ parle très en longueur du process de standardisation (la talkeuse ayant travail
 je n'étais pas du tout captivé, donc je suis passé à côté
 
 mais ça m'a donné le temps de rédiger la première motié de ces slides TODO emoji sourrire
+
+## Vendredi 12h35 - Et si Git n'était pas toujours la réponse ? Alternatives avec Pijul et Darcs
+
+Anis Chaabani
+
+présentation très superficielle de l'avantage (moins de conflits ?) et conclusion très limitée
+
+On avait fait un lunch sur Sapling, dont il a mentionné un concurrent : Jujutsu
+
+## Vendredi 13h30 - Staff Engineer : les défis, les galères et comment les surmonter
+
+Alice BOnhomme-Biais et Théotime Levêque
+
+TODO
 
 # Ce que j'ai loupé TODO emoji triste
 
