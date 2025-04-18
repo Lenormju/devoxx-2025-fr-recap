@@ -67,13 +67,23 @@ très clair dans sa première partie, elle a manqué de temps et je trouve que l
 
 Fanny Bouton
 
-TODO
+présentation des enjeux du quantique, surtout à base d'exemples pour le luxe et de métaphores avec la Formule 1, j'ai pas beaucoup accroché
+
+et ça présentait largement les opportunités de carrière à rejoindre l'industrie quantique, mais pas tant les impacts du quantique sur notre travail de dev (algo de chiffrement, puces pour traitement particulier)
+
+j'ai l'impression qu'elle était largement là pour vendre sa sauce (OCH cloud)
+
+mais un rappel important sur la souveraineté et notre expertise française sur le sujet
 
 ## Vendredi 09h35 - les LLM rêvent-ils de cavaliers électriques ?
 
 Monsieur Phi
 
-TODO
+Même s'il est moins bon en live qu'en vidéo, ça reste intéressant de voir du Monsieur Phi
+
+C'était une version remise-à-jour de sa vidéo d'il y a un "ChatGPT m'a vaincu aux échecs", pour dire que les LLMs peuvent se construire un world model, et ne sont donc pas seulement des perroquets stochastiques, et que de le vivre nous force à nous remettre en question
+
+Il est meilleur en vidéo qu'en live : il était stressé, il y a eu des soucis techniques au début, il a mal géré son temps et donc rushé la fin, ...
 
 # Data
 
@@ -239,6 +249,10 @@ j'ai entendu dire que ce n'était pas si bien ?
 ## Mercredi 11h35 - Les équipes se plient en 4 pour répondre aux éxigences du Cyber Resilience Act
 
 j'avais peur que ce soit chiant (et par des gens de Thales)
+
+## Jeudi 10h30 - Evolution continue de clusters Kubernetes/NoSQL supportant 300 millions de QPS
+
+par Criteo, intéressant pour les chiffres sur le plus gros cluster européen
 
 ## Jeudi 11h35 - Kubernetes : 5 façons créatives de flinguer sa prod
 
