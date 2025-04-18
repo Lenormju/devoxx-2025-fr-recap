@@ -127,6 +127,16 @@ Julien Wittouck
 
 l'outil est intéressant, mais la présentation extrêmement redondante
 
+## Vendredi 11h35 - Platform Engineering : DevOps est maintenant majeur
+
+Alexis Morelle, Henri Gomez
+
+présentation historique et panorame des pratiques DevOps et Platform Engineering
+
+intéressant pour la culture générale, mais un peu générique
+
+JULIEN : revoir à Kaizen
+
 # Test
 
 ## Mercredi 12h35 - Maîtriser les tests de code asynchrone
@@ -158,6 +168,18 @@ en utilisant Dinootoo (plateforme/toolbox d'Orange) pour avoir des prompts, en f
 l'IA change le game
 
 titre mensonger néanmoins : il faut tout le recul et l'expérience du testeur pour bien en tirer parti, donc ce n'est pas du "vibe"-testing, mais juste du test assisté par IA
+
+## Vendredi 10h30 - Et si on faisait du simulation-driven development ?
+
+Pierre Zemb
+
+mocker toutes les IO (même le multithreading, les latences réseaux, ...), insérer du random depuis une seed primaire, et comme ça avoir des simulations répétables
+
+un peu poussif : 25 minutes d'introduction au besoin, et au final très peu decode résenté, résultats un peu flous
+
+réservés à des besoins extrêmes
+
+intéressant néamoins
 
 # Sécu
 
