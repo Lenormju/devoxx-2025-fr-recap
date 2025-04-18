@@ -31,6 +31,8 @@ de la musique et de vidéos IA qui me donnent la gerbe tout le temps TODO emoji 
 
 pas de Python (cf mon post LinkedIn)
 
+ne pas aimer le soleil
+
 # Keynotes
 
 ## Mercredi 09h00 - l'IA n'existe pas
@@ -187,6 +189,18 @@ Manuel Camargo
 
 A l'aide de Copilot Chat (plutôt que Edit, qui semble moins avancé), et du fichier `.copilot-instructions`, on peut améliorer la pratique des 3 étapes du TDD à Copilot, mais sans avoir de gains de temps/qualité pour autant pour l'instant
 
+## Vendredi 13h30 - IA Générative; TDD et Architecture Héxagonale : une synergie révolutionnaire ?
+
+Clément Virieux et Florine Chevrier
+
+rediff pour moi de Lyon Craft, mais je voulais un second regard
+
+stack = VSCode + Cline + Open Router + Claude
+
+utiliser des cline rules
+
+JULIEN : à revoir à Kaizen
+
 # Sécu
 
 ## Mercredi 13h30 - Vol au-dessus d'un nid de vulnérabilités
@@ -240,6 +254,12 @@ mentionne les quality attributes (cf ISO/IEC 25010)
 
 JULIEN : à revoir à Kaizen
 
+## Vendredi 15h400 : The DDD Horror Picture Show
+
+Thomas Pierrain, Pauline Jamin
+
+TODO
+
 # Dev & Culture & ... (Alien)
 
 ## Mercredi 13h00 - Les podcasts tech en France
@@ -278,9 +298,13 @@ On avait fait un lunch sur Sapling, dont il a mentionné un concurrent : Jujutsu
 
 ## Vendredi 13h30 - Staff Engineer : les défis, les galères et comment les surmonter
 
-Alice BOnhomme-Biais et Théotime Levêque
+Alice Bonhomme-Biais et Théotime Levêque
 
-TODO
+une suite de situations problématiques, et quelques pistes de solution autour du métier de staff
+
+un peu intéressant, mais à la limite de l'enfonçage de porte ouverte
+
+mais j'ai bien aimé la recommandation de ne pas répondre à des messages privés, de demander à ce que les questions soient posées en public, pour que d'autres contribuent et partager l'apprentissage
 
 # Ce que j'ai loupé TODO emoji triste
 
@@ -311,3 +335,11 @@ ce qu'ils citent : Gradle, PMD (analyse statique pour Java), dependabot
 semble une mine d'or de bons conseils sur PG, et on me l'a recommandée
 
 JULIEN : à revoir à Kaizen ?
+
+## Jeudi 19h00 - Ensemble faisons progresser et grandir les développeurs débutants
+
+TODO
+
+## Jeudi 20h00 - Comment organiser des évènements plus inclusifs ?
+
+TODO
