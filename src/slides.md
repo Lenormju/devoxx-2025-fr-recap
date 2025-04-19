@@ -27,7 +27,7 @@ des stands d'exposants
 
 résumé des confs, dans le désordre, mais par thématique
 
-de la musique et de vidéos IA qui me donnent la gerbe tout le temps TODO emoji vomi
+de la musique et de vidéos IA qui me donnent la gerbe tout le temps 🤮
 
 pas de Python (cf mon post LinkedIn)
 
@@ -138,7 +138,7 @@ Alexandre Moray et Florian Meuleman
 
 un rappel sur les bases de l'observabilité (logs, traces, métriques)
 
-moins bien je trouve que la conférence de Mathieu ROger (TODO lui demander de la redonner ?)
+moins bien je trouve que la conférence de Mathieu Roger (TODO lui demander de la redonner ?)
 
 présentait SigNoz comme APM, et la suite OTel
 
@@ -335,7 +335,7 @@ parle très en longueur du process de standardisation (la talkeuse ayant travail
 
 je n'étais pas du tout captivé, donc je suis passé à côté
 
-mais ça m'a donné le temps de rédiger la première motié de ces slides TODO emoji sourrire
+mais ça m'a donné le temps de rédiger la première motié de ces slides 😏
 
 ## Vendredi 13h30 - Staff Engineer : les défis, les galères et comment les surmonter
 
@@ -347,7 +347,7 @@ un peu intéressant, mais à la limite de l'enfonçage de porte ouverte
 
 mais j'ai bien aimé la recommandation de ne pas répondre à des messages privés, de demander à ce que les questions soient posées en public, pour que d'autres contribuent et partager l'apprentissage
 
-# Ce que j'ai loupé TODO emoji triste
+# Ce que j'ai loupé 😥
 
 ## Mercredi 11h35 - Arcane : quand la technologie n'est pas le produit : une série d'animation
 
