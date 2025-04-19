@@ -33,6 +33,33 @@ pas de Python (cf mon post LinkedIn)
 
 ne pas aimer le soleil
 
+## Quelques stats
+
+~280 sessions
+
+par track :
+- Architecture = 15
+- Data = 49
+- Deployment = 35
+- Dev = 51
+- Front-End = 28
+- Java & Languages = 18 (dont 1 Go, 1 Kotlin, 1 Scala, 1 Node.js)
+- Mind the geek = 19
+- People and culture = 38
+- Security = 21
+- Server side = 7 (dont 5 Java)
+
+> Devoxx France est la plus grande conférence indépendante autour du développement et de la programmation, en Europe.
+> [...]
+> Devoxx France est l’occasion de faire des rencontres, de venir découvrir les dernières technologies et de participer à un grand moment communautaire.
+- https://www.devoxx.fr/
+
+> Quels sont les sujets traités ?
+> Les thèmes sont présentés sur la section Programme de notre site.
+> Vous pouvez par ailleurs vous faire une idée du contenu en consultant notre chaîne Devoxx France sur YouTube.
+> Devoxx France est d’abord une conférence pour les développeurs(.ses) passionné(e)s.
+- https://www.devoxx.fr/questions-frequentes/
+
 # Keynotes
 
 ## Mercredi 09h00 - l'IA n'existe pas
@@ -244,7 +271,7 @@ présentation de l'évolution au cours du temps (ACL, RBAC, ABAC, ReBAC, GitOps,
 
 ## Jeudi 10h30 - Les clés de l'architecture pour les devs
 
-Cyrille Martraire + quelqu'un
+Cyrille Martraire + Eric Le Merdy
 
 Cyrille est une valeur sûre, et je n'ai pas été déçu
 
@@ -254,13 +281,35 @@ mentionne les quality attributes (cf ISO/IEC 25010)
 
 JULIEN : à revoir à Kaizen
 
-## Vendredi 15h400 : The DDD Horror Picture Show
+## Vendredi 15h40 : The DDD Horror Picture Show
 
 Thomas Pierrain, Pauline Jamin
 
-TODO
+2 parties : quelques mauvaises pratiques autour du DDD, puis des considérations plus générales sur l'architecture de solutions
 
-# Dev & Culture & ... (Alien)
+# Dev
+
+## Vendredi 12h35 - Et si Git n'était pas toujours la réponse ? Alternatives avec Pijul et Darcs
+
+Anis Chaabani
+
+présentation très superficielle de l'avantage (moins de conflits ?) et conclusion très limitée
+
+On avait fait un lunch sur Sapling, dont il a mentionné un concurrent : Jujutsu
+
+## Vendredi 17h00 - Modéliser votre domaine métier grâce aux types
+
+Jordane Grenat
+
+live-coding de refacto sur un exemple de code qui a des bugs, et de comment les rendre impossible grâce aux types :
+- primitive obsession
+- value object encapsulation
+- phantom/branded types (distinguishable by the compiler, not at runtime)
+- types algébriques : somme et produit
+
+JULIEN : à revoir à Kaizen
+
+# People & Culture + Mind the Geek
 
 ## Mercredi 13h00 - Les podcasts tech en France
 
@@ -287,14 +336,6 @@ parle très en longueur du process de standardisation (la talkeuse ayant travail
 je n'étais pas du tout captivé, donc je suis passé à côté
 
 mais ça m'a donné le temps de rédiger la première motié de ces slides TODO emoji sourrire
-
-## Vendredi 12h35 - Et si Git n'était pas toujours la réponse ? Alternatives avec Pijul et Darcs
-
-Anis Chaabani
-
-présentation très superficielle de l'avantage (moins de conflits ?) et conclusion très limitée
-
-On avait fait un lunch sur Sapling, dont il a mentionné un concurrent : Jujutsu
 
 ## Vendredi 13h30 - Staff Engineer : les défis, les galères et comment les surmonter
 
@@ -338,8 +379,8 @@ JULIEN : à revoir à Kaizen ?
 
 ## Jeudi 19h00 - Ensemble faisons progresser et grandir les développeurs débutants
 
-TODO
+ça semblait intéressant
 
 ## Jeudi 20h00 - Comment organiser des évènements plus inclusifs ?
 
-TODO
+j'étais curieux d'avoir d'autres pistes
